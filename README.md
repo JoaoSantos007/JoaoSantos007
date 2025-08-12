@@ -8,7 +8,7 @@
 ## 👤 **Sobre mim**
 * Gosto da área de exatas e tecnologia, busco sempre aprender coisas novas. Sou corinthiano e gosto de assistir jogos de futebol e jogar jogos onlines. Me econtrei na área de Desenvolvimento de Sistemas.
 
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHiXR7sNdqkx6k6f74_rl2hgAJvmfaoc0sA&s" width="50" height="50" alt="Descrição da imagem">   <img src="https://engenhariadocorpo.com.br/wp-content/uploads/2023/08/4.png" width="100" height="50" alt="Descrição da imagem">     <img src="https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8am9nYW5kbyUyMHZpZGVvZ2FtZXN8ZW58MHx8MHx8fDA%3D" width="100" height="50" alt="Descrição da imagem">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHiXR7sNdqkx6k6f74_rl2hgAJvmfaoc0sA&s" width="70" height="70" alt="Descrição da imagem">   <img src="https://engenhariadocorpo.com.br/wp-content/uploads/2023/08/4.png" width="100" height="70" alt="Descrição da imagem">     <img src="https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8am9nYW5kbyUyMHZpZGVvZ2FtZXN8ZW58MHx8MHx8fDA%3D" width="100" height="70" alt="Descrição da imagem">
 
 
 ## 🔊 **Idiomas**
