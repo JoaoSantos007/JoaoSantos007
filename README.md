@@ -4,9 +4,6 @@
 * **Nome**: João Pedro Marafon
 * **Idade**: 16 anos
 * **Cidade**: Presidente Prudente
-* **Número**: (XX) XXXXX-XXXX
-* **E-mail**: gmail@gmail.com
-* **GitHub**: joao@gmail.com
 
 ## 👤 **Sobre mim**
 * Gosto da área de exatas e tecnologia, busco sempre aprender coisas novas. Sou corinthiano e gosto de assistir jogos de futebol e jogar jogos onlines. Me econtrei na área de Desenvolvimento de Sistemas.
