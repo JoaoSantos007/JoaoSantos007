@@ -50,7 +50,7 @@
 * **Ferramentas de Desenvolvimento**: VS Code, Git e GitHub <img src="https://camo.githubusercontent.com/2e3402a95bea6acba7dd5d26566d797607b63a6bdec43942c8286fbf7db4a177/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667 " width="30" height="20" alt="Descrição da imagem">
 * **Redes e IoT**: Noções básicas de protocolos de rede e integração com dispositivos IoT
 * **Metodologias**: Análise de Requisitos, Prototipagem de Software
-* **Bibliotecas Python** Tkinter
+* **Bibliotecas** Tkinter e Express
 * **Design Canva**
 
 ## 👨🏽‍💻 **Qualidades**
