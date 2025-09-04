@@ -19,7 +19,7 @@
 * Quero atuar como desenvolvedor em uma empresa inovadora, que dê oportunidade para os novos funcionários, quero contribuir para o crescimento da empresa ajudando a desenvolver soluções rápidas e práticas
 
 ## 🎓 **Formação Academica**
-* Curso Técnico em **Desenvolvimento de Sistemas** – SENAI
+* Curso Técnico em **Desenvolvimento de Sistemas** – SENAI (Em andamento)
 * **Ensino Médio** (Em andamento)
 
 ## 📚 **Cursos Complementares**
