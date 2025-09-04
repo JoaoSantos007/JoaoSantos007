@@ -13,7 +13,7 @@
 
 ## 🔊 **Idiomas**
 * **Português**: Nativo
-* **Inglês**: Básico
+* **Inglês**: Básico (A2)
 
 ## 🎯 **Metas Profissionais**
 * Quero atuar como desenvolvedor em uma empresa inovadora, que dê oportunidade para os novos funcionários, quero contribuir para o crescimento da empresa ajudando a desenvolver soluções rápidas e práticas
