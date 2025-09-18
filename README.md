@@ -64,3 +64,7 @@
 * Sair com amigos 
 * Ler 📖
 * Assistir jogos de futebol ⚽️
+
+## **Projetos**
+[Projeto Gourmetify](Gourmetify(1).pdf)
+[Projeto Educaverse](Educaverse.pdf)
