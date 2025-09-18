@@ -66,5 +66,5 @@
 * Assistir jogos de futebol ⚽️
 
 ## **Projetos**
-[Projeto Gourmetify](Gourmetify(1).pdf)
+[Projeto Gourmetify](Gourmetifyy.pdf)
 [Projeto Educaverse](Educaverse.pdf)
